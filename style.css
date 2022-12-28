@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+h2{
+font-style: italic;
+color: red;
+}
+ol{
+    color: brown;
+}
+.c1{
+    line-height:50px;
+}
+.c2{
+    text-decoration: line-through;
+}
+.c3{
+    background-color: yellow;
+}
+.c4{
+    text-decoration: underline;
+    font-style: italic;
+}
+.c5{
+    letter-spacing: 2px;
+    color: brown;
+}
+.c6{
+    background-color: yellow;
+}
+p{
+    color: deeppink;
+}
+a{
+    text-decoration: none;
+    font-style: italic;
+    background-color: yellow;
+    color: red;
+}
